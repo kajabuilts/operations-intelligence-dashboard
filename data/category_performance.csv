@@ -1,0 +1,7 @@
+﻿category,total_tickets,avg_resolution_hours,sla_compliance
+Damaged Shipment,1073,107.84,52.19
+Delivery Delay,2318,101.68,52.89
+General Inquiry,1201,74.5,92.09
+Incorrect Invoice,1315,93.82,61.52
+Missing Documents,1473,89.45,73.46
+Tracking Issue,1784,78.75,84.42
